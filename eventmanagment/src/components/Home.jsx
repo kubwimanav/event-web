@@ -12,6 +12,7 @@ import image9 from "../images/pexels-thatguycraig000-2306281.jpg";
 import image10 from "../images/pexels-wolfgang-1002140-2747449.jpg"
 import '../assets/styles/Home.css'
 import Footer from './Footer';
+import Contact from './Contact';
 function Home() {
   const cards = [
     {
@@ -108,8 +109,10 @@ function Home() {
               </div>
             ))}
           </div>
+          
         </div>
-      {/* <Contact/> */}
+        {/* <Contact/> */}
+        <Contact/>
       </div>
 
       {/* <div class="event-card">
