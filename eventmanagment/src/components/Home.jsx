@@ -13,6 +13,7 @@ import image10 from "../images/pexels-wolfgang-1002140-2747449.jpg"
 import '../assets/styles/Home.css'
 import Footer from './Footer';
 import Contact from './Contact';
+import About from './About';
 function Home() {
   const cards = [
     {
@@ -87,7 +88,7 @@ function Home() {
           <input type="text" placeholder="Search events" className="search-input" />
           <button className="search-button">search</button>
         </div>
-      </div>
+        </div>
       <div className="category">
         <button>Category 1</button>
         <button>Category 2</button>
