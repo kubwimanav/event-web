@@ -3,13 +3,6 @@ import'../assets/styles/About.css'
 function About() {
   return (
     <div>
-      
-        <div class="hero">
-          <h1>About Our Event Management System</h1>
-          <p>
-            Streamlining Event Planning and Attendance for Seamless Experiences
-          </p>
-        </div>
 
         <div class="container">
           <div class="section">
