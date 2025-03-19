@@ -40,8 +40,7 @@
             text-align: center;
         }
         .cta {
-            background: #007bff;
-            color: white;
+            background: white;
             padding: 20px;
             margin-top: 20px;
             text-align: center;
@@ -51,8 +50,8 @@
             color: white;
             text-decoration: none;
             font-weight: bold;
-            background: #0056b3;
-            padding: 10px 20px;
+            background-color: rgb(82,147,155);
+             padding: 10px 20px;
             border-radius: 5px;
             display: inline-block;
             margin-top: 10px;
