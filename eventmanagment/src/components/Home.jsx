@@ -1,6 +1,5 @@
 import React from 'react'
 import Header from './Header'
-import image1 from "../../public"
 import image1 from "../../public/images/pexels-bertellifotografia-2608517.jpg";
 import image2 from "../../public/images/pexels-asadphoto-169211.jpg";
 import image3 from "../../public/images/pexels-designecologist-1627935.jpg";
